@@ -6,8 +6,6 @@ BookBuddy is your personal reading hub designed to help you discover, track, and
 1. [Setting up](#setting-up)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Prerequisites
 
@@ -37,10 +35,3 @@ npm start
 - **React:** A JavaScript library for building user interfaces.
 - **Tailwind CSS:** A utility-first CSS framework for rapid UI development.
 - **Google Books API:** An API to search for books and retrieve detailed information.
-
-## Contributing
-We welcome contributions to improve **BookBuddy**. Feel free to submit issues and pull requests on the [GitHub repository](#).
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
