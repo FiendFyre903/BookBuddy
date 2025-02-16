@@ -1,4 +1,4 @@
-# BookBuddy
+# BookBuddy [IN PROGRESS]
 
 BookBuddy is your personal reading hub designed to help you discover, track, and explore your favorite books effortlessly. With a sleek and user-friendly interface, BookBuddy allows you to search for books, view trending titles, and access detailed information about each book, including the author, number of pages, publication year, and categories.
 
